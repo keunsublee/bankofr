@@ -1,3 +1,11 @@
+Group: KeunSub Lee 
+https://keunsublee.github.io/bankofr
+
+
+
+
+
+
 # bank-of-react-starter-code
 This repository is the starter code for Assignment 3 - Bank of React.
 
