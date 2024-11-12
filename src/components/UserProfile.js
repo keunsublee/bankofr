@@ -3,7 +3,6 @@
 ==================================================*/
 import React from 'react';
 import { Link } from 'react-router-dom';
-import AccountBalance from './AccountBalance';
 
 const UserProfile = ({ accountBalance, userName, memberSince }) => {
   return (
